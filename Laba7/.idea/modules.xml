@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Laba1/.idea/Laba1.iml" filepath="$PROJECT_DIR$/../Laba1/.idea/Laba1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Laba2/.idea/Laba2.iml" filepath="$PROJECT_DIR$/../Laba2/.idea/Laba2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Laba3/.idea/Laba3.iml" filepath="$PROJECT_DIR$/../Laba3/.idea/Laba3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Laba4/.idea/Laba4.iml" filepath="$PROJECT_DIR$/../Laba4/.idea/Laba4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Laba5/.idea/Laba5.iml" filepath="$PROJECT_DIR$/../Laba5/.idea/Laba5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Laba6/.idea/Laba6.iml" filepath="$PROJECT_DIR$/../Laba6/.idea/Laba6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Laba7.iml" filepath="$PROJECT_DIR$/.idea/Laba7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../recsystm/.idea/Курсач Паньков.iml" filepath="$PROJECT_DIR$/../../recsystm/.idea/Курсач Паньков.iml" />
+    </modules>
+  </component>
+</project>
