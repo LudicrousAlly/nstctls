@@ -1,4 +1,0 @@
-123456 Vasya
-654321 Ivan
-123457 Andre
-123654 Ilya
